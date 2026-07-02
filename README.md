@@ -1,5 +1,7 @@
 # zlefpay-go
 
+![views](https://assets.zlef.fr/badge/views/zlef-fr/zlefpay-go.svg)
+
 Official Go SDK for **[ZlefPay](https://pay.zlef.fr)** — accept crypto payments for
 products or subscriptions in a few lines. Non-custodial: funds settle straight to
 your own wallet addresses. No KYC.
